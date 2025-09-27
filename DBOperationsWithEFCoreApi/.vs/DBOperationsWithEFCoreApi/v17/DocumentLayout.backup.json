@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\singh\\OneDrive\\Desktop\\DB_EFCore\\Src\\DBOperationEfCore\\DBOperationsWithEFCoreApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB62097-8315-43A0-BF29-A1F534CA3A50}|DBOperationsWithEFCoreApi\\DBOperationsWithEFCoreApi.csproj|c:\\users\\singh\\onedrive\\desktop\\db_efcore\\src\\dboperationefcore\\dboperationswithefcoreapi\\dboperationswithefcoreapi\\txt.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{4CB62097-8315-43A0-BF29-A1F534CA3A50}|DBOperationsWithEFCoreApi\\DBOperationsWithEFCoreApi.csproj|solutionrelative:dboperationswithefcoreapi\\txt.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB62097-8315-43A0-BF29-A1F534CA3A50}|DBOperationsWithEFCoreApi\\DBOperationsWithEFCoreApi.csproj|c:\\users\\singh\\onedrive\\desktop\\db_efcore\\src\\dboperationefcore\\dboperationswithefcoreapi\\dboperationswithefcoreapi\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{4CB62097-8315-43A0-BF29-A1F534CA3A50}|DBOperationsWithEFCoreApi\\DBOperationsWithEFCoreApi.csproj|solutionrelative:dboperationswithefcoreapi\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB62097-8315-43A0-BF29-A1F534CA3A50}|DBOperationsWithEFCoreApi\\DBOperationsWithEFCoreApi.csproj|c:\\users\\singh\\onedrive\\desktop\\db_efcore\\src\\dboperationefcore\\dboperationswithefcoreapi\\dboperationswithefcoreapi\\txt.gitignore||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4CB62097-8315-43A0-BF29-A1F534CA3A50}|DBOperationsWithEFCoreApi\\DBOperationsWithEFCoreApi.csproj|solutionrelative:dboperationswithefcoreapi\\txt.gitignore||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB62097-8315-43A0-BF29-A1F534CA3A50}|DBOperationsWithEFCoreApi\\DBOperationsWithEFCoreApi.csproj|c:\\users\\singh\\onedrive\\desktop\\db_efcore\\src\\dboperationefcore\\dboperationswithefcoreapi\\dboperationswithefcoreapi\\dboperationswithefcoreapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4CB62097-8315-43A0-BF29-A1F534CA3A50}|DBOperationsWithEFCoreApi\\DBOperationsWithEFCoreApi.csproj|solutionrelative:dboperationswithefcoreapi\\dboperationswithefcoreapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "txt.gitignore",
+              "DocumentMoniker": "C:\\Users\\singh\\OneDrive\\Desktop\\DB_EFCore\\Src\\DBOperationEfCore\\DBOperationsWithEFCoreApi\\DBOperationsWithEFCoreApi\\txt.gitignore",
+              "RelativeDocumentMoniker": "DBOperationsWithEFCoreApi\\txt.gitignore",
+              "ToolTip": "C:\\Users\\singh\\OneDrive\\Desktop\\DB_EFCore\\Src\\DBOperationEfCore\\DBOperationsWithEFCoreApi\\DBOperationsWithEFCoreApi\\txt.gitignore",
+              "RelativeToolTip": "DBOperationsWithEFCoreApi\\txt.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-27T11:51:54.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "txt.gitignore",
+              "DocumentMoniker": "C:\\Users\\singh\\OneDrive\\Desktop\\DB_EFCore\\Src\\DBOperationEfCore\\DBOperationsWithEFCoreApi\\DBOperationsWithEFCoreApi\\txt.gitignore",
+              "RelativeDocumentMoniker": "DBOperationsWithEFCoreApi\\txt.gitignore",
+              "ToolTip": "C:\\Users\\singh\\OneDrive\\Desktop\\DB_EFCore\\Src\\DBOperationEfCore\\DBOperationsWithEFCoreApi\\DBOperationsWithEFCoreApi\\txt.gitignore",
+              "RelativeToolTip": "DBOperationsWithEFCoreApi\\txt.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-27T11:49:59.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\singh\\OneDrive\\Desktop\\DB_EFCore\\Src\\DBOperationEfCore\\DBOperationsWithEFCoreApi\\DBOperationsWithEFCoreApi\\README.md",
+              "RelativeDocumentMoniker": "DBOperationsWithEFCoreApi\\README.md",
+              "ToolTip": "C:\\Users\\singh\\OneDrive\\Desktop\\DB_EFCore\\Src\\DBOperationEfCore\\DBOperationsWithEFCoreApi\\DBOperationsWithEFCoreApi\\README.md",
+              "RelativeToolTip": "DBOperationsWithEFCoreApi\\README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-09-27T11:45:38.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DBOperationsWithEFCoreApi.csproj",
+              "DocumentMoniker": "C:\\Users\\singh\\OneDrive\\Desktop\\DB_EFCore\\Src\\DBOperationEfCore\\DBOperationsWithEFCoreApi\\DBOperationsWithEFCoreApi\\DBOperationsWithEFCoreApi.csproj",
+              "RelativeDocumentMoniker": "DBOperationsWithEFCoreApi\\DBOperationsWithEFCoreApi.csproj",
+              "ToolTip": "C:\\Users\\singh\\OneDrive\\Desktop\\DB_EFCore\\Src\\DBOperationEfCore\\DBOperationsWithEFCoreApi\\DBOperationsWithEFCoreApi\\DBOperationsWithEFCoreApi.csproj",
+              "RelativeToolTip": "DBOperationsWithEFCoreApi\\DBOperationsWithEFCoreApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-27T11:20:22.613Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
